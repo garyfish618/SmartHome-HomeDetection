@@ -1,0 +1,4 @@
+python-nmap==0.7.1
+Flask==2.2.2
+pymongo
+Flask-WTF
